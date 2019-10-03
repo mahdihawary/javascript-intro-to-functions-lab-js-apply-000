@@ -7,3 +7,7 @@ function whisper(String){
 function logshout(String){
   console.log()
 }
+function logwhisper(String){
+  
+}
+function 
