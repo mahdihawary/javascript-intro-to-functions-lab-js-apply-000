@@ -5,5 +5,5 @@ function whisper(String){
   return String.toLowerCase()
 }
 function logshout(String){
-  return 
+  console.log
 }
