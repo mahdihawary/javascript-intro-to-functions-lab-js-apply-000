@@ -10,4 +10,6 @@ function logshout(String){
 function logwhisper(String){
   
 }
-function 
+function SayHiToGrandma(String){
+  
+}
