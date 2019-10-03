@@ -14,8 +14,8 @@ function SayHiToGrandma(String){
   if(String==="I love you, Grandma.")
    { return "I can't hear you!"}
   else if(String===uppercase)
-  {}
+  {return "YES INDEED!"}
   else if(String===lowercase)
-    {return "I love you, too."
+    {return"I can't hear you!"
     }
 }
