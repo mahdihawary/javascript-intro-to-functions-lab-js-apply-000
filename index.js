@@ -4,4 +4,6 @@ function shout(String){
 function whisper(String){
   return String.toLowerCase()
 }
-function 
+function logshout(String){
+  return 
+}
